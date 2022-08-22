@@ -14,7 +14,6 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Compiled Static libraries
 *.lai
@@ -26,3 +25,8 @@
 *.out
 *.app
 
+# Project archives
+*.zpr
+*.fbp
+*.flg
+*.bak
